@@ -1,3 +1,6 @@
+/* 0이 아닌 값 & true= 1
+   false= 0 */
+
 #include <iostream>
 using namespace std;
 
@@ -17,7 +20,4 @@ int main(){
     cout << "v의 값: " << v << endl;
     
     return 0;
-
-/* 0이 아닌 값 & true= 1
-   false= 0 */
 }
